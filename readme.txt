@@ -1,4 +1,5 @@
-<h2>=== Its Migs ===</h2>
+=== Its Migs ===
+------------
 Contributors: itsrashad
 Tags: Visa Mastercard Plugin, Payment Gateway, MasterCard Internet Gateway Service, MIGS, Axis Bank, MIGS Payment Gateway Integration with WooCommerce
 Requires at least: 3.5.1
@@ -9,12 +10,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extends WooCommerce with MasterCard Internet Gateway Service (MIGS)
 
-<h2>== Description ==</h2>
+== Description ==
+------------
 This plugin enables MIGS payment gateway support for your WooCommerce sites. It Allows you to use MasterCard Internet Gateway Service or any other bank that uses MIGS (like HSBC, Bendigo Bank, Axis Bank ...) with the WooCommerce plugin. 
 
 It uses the redirect method, the user is redirected to MIGS payment gateway page so that you don't have to install an SSL certificate on your site.
 
-<h2>== Installation ==</h2>
+== Installation ==
+------------
 1. Ensure you have latest version of WooCommerce plugin installed ( 2.2 or above )
 2. Unzip and upload contents of the plugin to your /wp-content/plugins/ directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
@@ -25,18 +28,21 @@ It uses the redirect method, the user is redirected to MIGS payment gateway page
 7. Add your Merchant Id, Access Code and Secure Hash Secret.
 8. Click Save changes.
 
-<h2>== Screenshots ==</h2>
+== Screenshots ==
+------------
 1. WooCommerce Checkout section's payment gateway setting page
 2. Its Migs setting page
 3. MIGS payment option at Checkout page
 
-<h2>== Support ==</h2>
+== Support ==
+------------
 * Contact Details
   Skype: itsrashadsu
   Email: itsrashad@gmail.com
   Website: http://itsrashad.info/
 
-<h2>== Credits ==</h2>
+== Credits ==
+------------
 
 * WesamFawzi
   Website: http://wesamfawzi.com/
@@ -44,7 +50,8 @@ It uses the redirect method, the user is redirected to MIGS payment gateway page
 * Plugins Post
   Plugins Post: http://itsrashad.info/its-migs-wordpress-woocommerce-migs-payment-gateway-plugin/
 
-<h2>== Changelog ==</h2>
+== Changelog ==
+------------
 = 1.8 =
 * text domain update
 
