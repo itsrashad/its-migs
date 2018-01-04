@@ -1,5 +1,4 @@
 === Its Migs ===
-------------
 Contributors: itsrashad
 Tags: Visa Mastercard Plugin, Payment Gateway, MasterCard Internet Gateway Service, MIGS, Axis Bank, MIGS Payment Gateway Integration with WooCommerce
 Requires at least: 3.5.1
@@ -10,14 +9,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extends WooCommerce with MasterCard Internet Gateway Service (MIGS)
 
+_its
+===
+
 == Description ==
-------------
 This plugin enables MIGS payment gateway support for your WooCommerce sites. It Allows you to use MasterCard Internet Gateway Service or any other bank that uses MIGS (like HSBC, Bendigo Bank, Axis Bank ...) with the WooCommerce plugin. 
 
 It uses the redirect method, the user is redirected to MIGS payment gateway page so that you don't have to install an SSL certificate on your site.
 
 == Installation ==
-------------
 1. Ensure you have latest version of WooCommerce plugin installed ( 2.2 or above )
 2. Unzip and upload contents of the plugin to your /wp-content/plugins/ directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
@@ -29,20 +29,17 @@ It uses the redirect method, the user is redirected to MIGS payment gateway page
 8. Click Save changes.
 
 == Screenshots ==
-------------
 1. WooCommerce Checkout section's payment gateway setting page
 2. Its Migs setting page
 3. MIGS payment option at Checkout page
 
 == Support ==
-------------
 * Contact Details
   Skype: itsrashadsu
   Email: itsrashad@gmail.com
   Website: http://itsrashad.info/
 
 == Credits ==
-------------
 
 * WesamFawzi
   Website: http://wesamfawzi.com/
@@ -51,7 +48,6 @@ It uses the redirect method, the user is redirected to MIGS payment gateway page
   Plugins Post: http://itsrashad.info/its-migs-wordpress-woocommerce-migs-payment-gateway-plugin/
 
 == Changelog ==
-------------
 = 1.8 =
 * text domain update
 
