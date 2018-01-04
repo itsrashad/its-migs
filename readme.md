@@ -36,7 +36,7 @@ It uses the redirect method, the user is redirected to MIGS payment gateway page
   Email: itsrashad@gmail.com
   Website: http://itsrashad.info/
 
-#== Credits ==
+== Credits ==
 
 * WesamFawzi
   Website: http://wesamfawzi.com/
