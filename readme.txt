@@ -9,9 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Extends WooCommerce with MasterCard Internet Gateway Service (MIGS)
 
-_its
-===
-
 == Description ==
 This plugin enables MIGS payment gateway support for your WooCommerce sites. It Allows you to use MasterCard Internet Gateway Service or any other bank that uses MIGS (like HSBC, Bendigo Bank, Axis Bank ...) with the WooCommerce plugin. 
 
